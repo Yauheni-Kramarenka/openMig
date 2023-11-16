@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Build-Date: 2023-11-15T14:55:52.414458+01:00
-Created-By: OpenL WebStudio v.5.26.6
-Implementation-Title: Tutorial 1 - Introduction to Decision Tables
-Build-Number: 4
-Implementation-Version: admin-2023-11-15_15-45-06
-Built-By: admin
-
