@@ -1,2 +1,9 @@
 
-<descriptors/>
+<descriptors>
+    <descriptor>
+        <repositoryId>design</repositoryId>
+        <path>DESIGN/rules/Tutorial 2 - Introduction to Data Tables</path>
+        <projectName>Tutorial 2 - Introduction to Data Tables</projectName>
+        <projectVersion>8</projectVersion>
+    </descriptor>
+</descriptors>
